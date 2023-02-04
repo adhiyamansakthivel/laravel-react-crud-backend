@@ -3,6 +3,10 @@ this laravel backend realted to https://github.com/adhiyamansakthivel/laravel-re
 
 cors.php middleware added to upload images cors origin support
 
-Just clone this package
-cmd - composer install
-to run this package - php artisan serve
+#Just clone this package
+
+#Config Database Credentials 
+
+#cmd - composer install
+
+#to run this package - php artisan serve
